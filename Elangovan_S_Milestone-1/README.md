@@ -70,9 +70,10 @@ The anaysis done are:
 
 ### **4. Visualization**
 Visuals generated include:
-- Histograms  
+- Correlation heatm
 - Box plots  
-- Correlation heatmap  
-
+- Histograms
+- Pairplot
+  
 ---
 
