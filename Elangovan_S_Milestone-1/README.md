@@ -56,7 +56,7 @@ The notebook follows a complete data analysis workflow:
 
 ### **2. Data Cleaning / Preprocessing**
 - Handle missing values
-  we did not find need to do the below things since the data is good
+  **we did not find need to do the below things since the data is good**
 - Convert data types
 - Parse dates
 - Fix inconsistent entries  
