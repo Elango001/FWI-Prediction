@@ -55,34 +55,25 @@ The notebook follows a complete data analysis workflow:
 - View initial records  
 
 ### **2. Data Cleaning / Preprocessing**
-- Handle missing values  
-- Convert data types  
-- Parse dates (if applicable)  
+- Handle missing values
+  
+**we did not find need to do the below things since the data is good**
+- Convert data types
+- Parse dates
 - Fix inconsistent entries  
 
 ### **3. Exploratory Data Analysis (EDA)**
-Includes analysis of:
-- Temperature  
-- Relative Humidity (RH)  
-- Wind Speed (Ws)  
-- Rain  
-
-And analysis of Fire Weather Index components:
-- FFMC  
-- DMC  
-- DC  
-- ISI  
-- BUI  
-- FWI  
+The anaysis done are:
+- skewness of the dataset
+- correlation between variables
+- IQR
 
 ### **4. Visualization**
 Visuals generated include:
-- Histograms  
+- Correlation heatm
 - Box plots  
-- Correlation heatmap  
-- Time-series line plots  
-
-These help identify trends, anomalies, and feature relationships.
-
+- Histograms
+- Pairplot
+  
 ---
 
